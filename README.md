@@ -1,5 +1,5 @@
-# aperc-template
-Template for APERC models.
+# Financial analysis projects I
+Template repository at the moment.
 
 ## How to use this template
 Create a new repository. When given the option, select 'aperc-template' as the template.
